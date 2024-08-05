@@ -1,19 +1,6 @@
 # Welcome 🖐 to the Restaurant Website
 It is a one pager Restaurant Website with an integrated databse.
 
-## Default view of the website
-HOMEPAGE
-![homepage](public/images/homepage.png)
-
-ABOUT
-![homepage](public/images/about.png)
-
-MENU
-![homepage](public/images/menu.png)
-
-CONTACT
-![homepage](public/images/contact.png)
-
 ## 💻Tech Stack
 <br>
 
@@ -37,9 +24,6 @@ CONTACT
 ---
 
 - Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
 ```
 
 - Go to the directory
@@ -65,4 +49,3 @@ localhost:3000
 <br>
 
 
-## Happy Coding!
